@@ -42,9 +42,14 @@ DOMAIN-SUFFIX,zte.home
 DOMAIN-SUFFIX,tplogin.cn
 DOMAIN-SUFFIX,wifi.cmcc
 
-# Router managed 路由器管理域名
+# synology 管理域名
 DOMAIN-SUFFIX,api.ipify.org
-DOMAIN-KEYWORD,synology
+DOMAIN-SUFFIX,checkip.synology.com
+DOMAIN-SUFFIX,checkipv6.synology.com
+DOMAIN-SUFFIX,checkport.synology.com
+DOMAIN-SUFFIX,ddns.synology.com
+DOMAIN-SUFFIX,account.synology.com
+DOMAIN-SUFFIX,spk7.imnks.com
 DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,diskstation.me
 DOMAIN-SUFFIX,i234.me

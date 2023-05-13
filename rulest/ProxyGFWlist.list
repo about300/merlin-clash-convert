@@ -1,6 +1,11 @@
 # 代理列表
 # MyList
+DOMAIN-SUFFIX,image.themoviedb.org
+DOMAIN-SUFFIX,www.themoviedb.org
+DOMAIN-SUFFIX,api.thetvdb.com
+DOMAIN-SUFFIX,api.themoviedb.org
 DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,bulianglin.com
 # MyList && Other
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,adguard.org
